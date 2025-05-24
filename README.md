@@ -1,1 +1,3 @@
-# SSShooter-Mind-Elixir-Desktop-Release
+# Mind Elixir Desktop Release
+
+https://desktop.mind-elixir.com/
